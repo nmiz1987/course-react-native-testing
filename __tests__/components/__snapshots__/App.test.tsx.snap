@@ -2,7 +2,6 @@
 
 exports[`General App tests Renders Tab 1 correctly 1`] = `
 <View
-  accessible={true}
   style={
     {
       "alignItems": "center",
